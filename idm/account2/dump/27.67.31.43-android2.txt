@@ -1,0 +1,22 @@
+GET /account2/index.php HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 27.67.31.43
+Cf-Ray: 377af58e8225121f-HKG
+X-Forwarded-Proto: http
+Cf-Visitor: {"scheme":"http"}
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+X-Wap-Profile: http://218.249.47.94/Xianghe/MTK_Phone_KK_UAprofile.xml
+User-Agent: Mozilla/5.0 (Linux; Android 5.1; Nova i6 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36
+Referer: http://idm.munongdan.pro/account2/dangnhap.php?token=aikikak&loginkey=SUpPS1EyRzQ5TUg1TFNOQTI=
+Accept-Language: vi-VN,en-US;q=0.8
+Cookie: __cfduid=d568062b6fdbf1d7d872d54b4ecaf9e8f1498928819; PHPSESSID=nlr350vblkgihhc1o2q3t28rj0
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cf-Connecting-Ip: 27.67.31.43
+
+Response body:
+

@@ -1,0 +1,21 @@
+GET /account/dangnhap.php?token=vanhieu222&loginkey=RkQzU0dPU0VDTlBTV1dFNkg= HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 14.168.6.127
+Cf-Ray: 37460ab0b53e195c-HKG
+X-Forwarded-Proto: http
+Cf-Visitor: {"scheme":"http"}
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.2; SM-A300H Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: vi-VN,en-US;q=0.8
+Cookie: __cfduid=d60f527853de51af73ff6937b26deadf91498368637; PHPSESSID=h8n7kdls03r9qfic1n89k4a572; __utmt=1; __utma=61409140.661224362.1498368645.1498368645.1498373920.2; __utmb=61409140.2.10.1498373920; __utmc=61409140; __utmz=61409140.1498368645.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cf-Connecting-Ip: 14.168.6.127
+
+Response body:
+

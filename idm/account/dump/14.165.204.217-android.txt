@@ -1,0 +1,20 @@
+GET /account/topup.php?act=&debug=false&location=th&gamecode=&simOperator=&typeName=WIFI&pid=4058&rid=4058001&price=0&partnersOrderId=QMQJ1706260929516341967900000001&width=1366&height=720&token=pmtu996@gmail.com&v=5.2.9 HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 14.165.204.217
+Cf-Ray: 374cbf94e28084de-HKG
+X-Forwarded-Proto: http
+Cf-Visitor: {"scheme":"http"}
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; HP 450 Notebook PC Build/MOB31E; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Safari/537.36
+Accept-Language: en-US
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cf-Connecting-Ip: 14.165.204.217
+
+Response body:
+

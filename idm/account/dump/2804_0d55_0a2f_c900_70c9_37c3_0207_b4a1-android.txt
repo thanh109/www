@@ -1,0 +1,21 @@
+GET /account/topup.php?act=&debug=false&location=th&gamecode=&simOperator=&typeName=WIFI&pid=4058&rid=4058001&price=0&partnersOrderId=QMQJ1707020014057401141900000001&width=1184&height=720&token=garbo504@gmail.com&v=5.2.9 HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: BR
+X-Forwarded-For: 2804:0d55:0a2f:c900:70c9:37c3:0207:b4a1
+Cf-Ray: 377b024cd47c4a12-GRU
+X-Forwarded-Proto: http
+Cf-Visitor: {"scheme":"http"}
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; Moto G Play Build/MPIS24.241-15.3-16; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language: pt-BR,en-US;q=0.8
+Cookie: __cfduid=d66fb23f51c679cb612a0a0f68027c1f41498922855; PHPSESSID=agph4h6ndj8unm56a5se00ucj7; __utma=61409140.457547417.1498922844.1498922844.1498922844.1; __utmc=61409140; __utmz=61409140.1498922844.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cf-Connecting-Ip: 2804:0d55:0a2f:c900:70c9:37c3:0207:b4a1
+
+Response body:
+

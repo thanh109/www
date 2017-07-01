@@ -1,0 +1,53 @@
+﻿DK | Nón Hắc Phụng Hoàng cấp 7 | 1000007 | 100 | 1000007.png
+DK | Giáp Hắc Phụng Hoàng cấp 7 | 1000107 | 100 | 1000107.png
+DK | Găng Tay Hắc Phụng Hoàng cấp 7 | 1000207 | 100 | 1000207.png
+DK | Giáp Đùi Hắc Phụng Hoàng cấp 7 | 1000307 | 100 | 1000307.png
+DK | Giày Hắc Phụng Hoàng cấp 7 | 1000407 | 100 | 1000407.png
+DK | Dây chuyền Hắc Phụng Hoàng cấp 7 5% | 1000507 | 100 | 1000507.png
+DK | Nhẫn Hắc Phụng Hoàng cấp 7 5% | 1000607 | 100 | 1000607.png
+DK | Khiên Hắc Phụng Hoàng cấp 7 5% | 1005303 | 100 | 1005303.png
+DK | Kiếm đại thiên sứ cấp 7 | 1005093 | 100 | 1005099.png
+DK | Kiếm đại thiên sứ cấp 8 | 1005094 | 100 | 1005099.png
+DK | Kiếm đại thiên sứ cấp 9 | 1005095 | 100 | 1005099.png
+DK | Kiếm đại thiên sứ cấp 10 | 1005096 | 100 | 1005099.png
+DK | Kiếm đại thiên sứ cấp 11 | 1005097 | 100 | 1005099.png
+DW | Nón Kỳ Lân cấp 7 | 1010007 | 100 | 1010007.png
+DW | Giáp Kỳ Lân cấp 7 | 1010107 | 100 | 1010107.png
+DW | Găng Kỳ Lân cấp 7 | 1010207 | 100 | 1010207.png
+DW | Giáp Đùi Kỳ Lân cấp 7 | 1010307 | 100 | 1010307.png
+DW | Giày Kỳ Lân cấp 7 | 1010407 | 100 | 1010407.png
+DW | Dây chuyền Kỳ Lân cấp 7 5% | 1010507 | 100 | 1010507.png
+DW | Nhẫn Kỳ Lân cấp 7 5% | 1010607 | 100 | 1010607.png
+DW | Khiên Kỳ Lân cấp 7 5% | 1015303 | 100 | 1015303.png
+DW | Trượng đại thiên sứ cấp 7 | 1015093 | 100 | 1015099.png
+DW | Trượng đại thiên sứ cấp 8 | 1015094 | 100 | 1015099.png
+DW | Trượng đại thiên sứ cấp 9 | 1015095 | 100 | 1015099.png
+DW | Trượng đại thiên sứ cấp 10 | 1015096 | 100 | 1015099.png
+DW | Trượng đại thiên sứ cấp 11 | 1015097 | 100 | 1015099.png
+ELF | Nón Thánh Linh cấp 7 | 1020007 | 100 | 1020007.png
+ELF | Giáp Thánh Linh cấp 7 | 1020107 | 100 | 1020107.png
+ELF | Găng Thánh Linh cấp 7 | 1020207 | 100 | 1020207.png
+ELF | Giáp Đùi Thánh Linh cấp 7 | 1020307 | 100 | 1020307.png
+ELF | Giày Thánh Linh cấp 7 | 1020407 | 100 | 1020407.png
+ELF | Dây chuyền Thánh Linh cấp 7 5% | 1020507 | 100 | 1020507.png
+ELF | Nhẫn Thánh Linh cấp 7 5% | 1020607 | 100 | 1020607.png
+ELF | Mũi tên ELF cấp 7 5% | 1022103 | 100 | 1022103.png
+ELF | Nỏ đại thiên sứ cấp 7 | 1025593 | 100 | 1025599.png
+ELF | Nỏ đại thiên sứ cấp 8 | 1025594 | 100 | 1025599.png
+ELF | Nỏ đại thiên sứ cấp 9 | 1025595 | 100 | 1025599.png
+ELF | Nỏ đại thiên sứ cấp 10 | 1025596 | 100 | 1025599.png
+ELF | Nỏ đại thiên sứ cấp 11 | 1025597 | 100 | 1025599.png
+MG Lực | Nón Bôn Lôi-Lực cấp 7 | 1030007 | 100 | 1030007.png
+MG Lực | Giáp Bôn Lôi-Lực cấp 7 | 1030107 | 100 | 1030107.png
+MG Lực | Găng Bôn Lôi-Lực cấp 7 | 1030207 | 100 | 1030207.png
+MG Lực | Giáp Đùi Bôn Lôi-Lực cấp 7 | 1030307 | 100 | 1030307.png
+MG Lực | Giày Bôn Lôi-Lực cấp 7 | 1030407 | 100 | 1030407.png
+MG Lực | Dây chuyền Bôn Lôi-Lực cấp 7 5% | 1030507 | 100 | 1030507.png
+MG Lực | Nhẫn Bôn Lôi-Lực cấp 7 5% | 1030607 | 100 | 1030607.png
+MG Phép | Nón Bôn Lôi-Phép cấp 7 | 1040007 | 100 | 1040007.png
+MG Phép | Giáp Bôn Lôi-Phép cấp 7 | 1040107 | 100 | 1040107.png
+MG Phép | Găng Bôn Lôi-Phép cấp 7 | 1040207 | 100 | 1040207.png
+MG Phép | Giáp Đùi Bôn Lôi-Phép cấp 7 | 1040307 | 100 | 1040307.png
+MG Phép | Giày Bôn Lôi-Phép cấp 7 | 1040407 | 100 | 1040407.png
+MG Phép | Dây chuyền Bôn Lôi-Phép cấp 7 5% | 1040507 | 100 | 1040507.png
+MG Phép | Nhẫn Bôn Lôi-Phép cấp 7 5% | 1040607 | 100 | 1040607.png

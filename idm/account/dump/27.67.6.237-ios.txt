@@ -1,0 +1,14 @@
+GET /account/ipdoigoldvipdoigold.php?&lang=vn&deviceType=ios&simOperator=vn&typeName=&pid=858&rid=858001&partnersOrderId=QMQJ1707020252184971449600001&token=testgame&qpay=false&weixinpay=false&v=v2.5.1.0&debug=false HTTP/1.1
+
+HTTP headers:
+Connection: close
+Accept-Encoding: gzip, deflate
+Accept-Language: vi-vn
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Mobile/14E304
+Cookie: __utma=61409140.1278470209.1498809997.1498844731.1498857223.3; __utmz=61409140.1498809997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=1p33p7dcr8o0f1derqg3fsptj5; __utma=213868040.612843710.1498929681.1498929681.1498929681.1; __utmz=213868040.1498929681.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __cfduid=db08051299bb92568a901d448a263c1fb1498748113
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: idm.munongdan.pro
+
+Response body:
+

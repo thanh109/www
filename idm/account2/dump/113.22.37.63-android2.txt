@@ -1,0 +1,22 @@
+GET /account2/index.php HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 113.22.37.63
+Cf-Ray: 377af5a14e597032-SIN
+X-Forwarded-Proto: https
+Cf-Visitor: {"scheme":"https"}
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: https://idm.munongdan.pro/account2/dangnhap.php?token=rangsun&loginkey=N01USlU3MVVIMkFVOUFDU1o=
+Accept-Language: vi-VN,en-US;q=0.8
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cookie: __cfduid=d0ae1db617e4805751354a2d736512a8c1498454740; PHPSESSID=gtq3p634fc4pfk7fdocbo30ug3; __utmt=1; __utma=61409140.1166341222.1498454743.1498924096.1498928001.4; __utmb=61409140.9.10.1498928001; __utmc=61409140; __utmz=61409140.1498454743.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Cf-Connecting-Ip: 113.22.37.63
+
+Response body:
+

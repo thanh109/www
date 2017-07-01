@@ -1,0 +1,21 @@
+GET /account2/index.php HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 45.122.233.14
+Cf-Ray: 377b0b55ced3319e-SIN
+X-Forwarded-Proto: https
+Cf-Visitor: {"scheme":"https"}
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: vi-US,en-US;q=0.8
+Cookie: __cfduid=d21d93439fe959ff29458b75398fa32151498929154; PHPSESSID=c7vmhgh3ot7hcng20sos5mapt2; __utmt=1; cf_use_ob=0; __utma=61409140.730440564.1498929166.1498929166.1498929166.1; __utmb=61409140.8.10.1498929166; __utmc=61409140; __utmz=61409140.1498929166.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Referer: https://idm.munongdan.pro/account2/dangnhap.php?token=zalo8861&loginkey=R1ZPUFEwTkJVRU9aMzFDVUE=
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.3; HTC One Build/KTU84L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cf-Connecting-Ip: 45.122.233.14
+
+Response body:
+

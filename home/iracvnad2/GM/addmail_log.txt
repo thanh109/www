@@ -1,0 +1,6 @@
+Info=mailId=208450
+warning=goods=1030915
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                              VALUES (208450, 1030915, 1, 1, 80, 1, 1.0E+17, 99, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                              VALUES (208450, 1030915, 1, 1, 80, 1, 1.0E+17, 99, 0, 0, '0', 0, 0, '0', 0, 0,  0)

@@ -1,0 +1,21 @@
+GET /account/dangnhap.php?token=mrlok93&loginkey=Q0dQMUtPTlBQMjcxVDdISEU= HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 42.116.123.76
+Cf-Ray: 3745ff7b266f6fea-SIN
+X-Forwarded-Proto: http
+Cf-Visitor: {"scheme":"http"}
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0; Coolpad E502 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: vi-VN,en-US;q=0.8
+Cookie: __cfduid=de4d17d49fe70f674b570f344b30e040e1498309641; PHPSESSID=8h8kgf0sseconof79bd7skn8s2; __utma=61409140.1435979679.1498309654.1498325127.1498327091.4; __utmc=61409140; __utmz=61409140.1498309654.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cf-Connecting-Ip: 42.116.123.76
+
+Response body:
+

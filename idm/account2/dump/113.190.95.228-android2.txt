@@ -1,0 +1,21 @@
+GET /account/index.php HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 113.190.95.228
+Cf-Ray: 3746076f446532b9-HKG
+X-Forwarded-Proto: http
+Cf-Visitor: {"scheme":"http"}
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+Accept-Language: en-US,en;q=0.8
+Cookie: __cfduid=dd57556403b1fbbda1f486e7dc42f26ba1498364445; PHPSESSID=g101cbipgk8qe6t98djf96vaf5; __utma=61409140.53350235.1498371863.1498371863.1498371863.1; __utmc=61409140; __utmz=61409140.1498371863.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=213868040.1488703736.1498370106.1498370106.1498372204.2; __utmb=213868040.8.10.1498372204; __utmc=213868040; __utmz=213868040.1498370106.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Cf-Connecting-Ip: 113.190.95.228
+
+Response body:
+

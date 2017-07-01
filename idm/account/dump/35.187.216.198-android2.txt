@@ -1,0 +1,15 @@
+GET /account/index.php HTTP/1.1
+
+HTTP headers:
+Cookie: PHPSESSID=tbf15i3f6j3kullqea9lktvr83
+Accept-Language: en-US,en;q=0.8
+Accept-Encoding: gzip, deflate
+Referer: http://idm.munongdan.pro/account/login.php?act=do
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Connection: close
+Host: idm.munongdan.pro
+
+Response body:
+

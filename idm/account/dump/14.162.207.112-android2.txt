@@ -1,0 +1,15 @@
+GET /account/index.php HTTP/1.1
+
+HTTP headers:
+Accept-Encoding: gzip, deflate
+Accept-Language: vi-vn
+Referer: http://idm.munongdan.pro/account/dangnhap.php?token=testgame
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Mobile/14E304
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+Connection: close
+Cookie: __utma=61409140.1278470209.1498809997.1498844731.1498857223.3; __utmz=61409140.1498809997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=1p33p7dcr8o0f1derqg3fsptj5; __utma=213868040.612843710.1498929681.1498929681.1498929681.1; __utmz=213868040.1498929681.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __cfduid=db08051299bb92568a901d448a263c1fb1498748113
+Host: idm.munongdan.pro
+
+Response body:
+

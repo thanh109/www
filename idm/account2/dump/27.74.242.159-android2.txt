@@ -1,0 +1,21 @@
+GET /account/index.php HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 27.74.242.159
+Cf-Ray: 37461b30114c3373-HKG
+X-Forwarded-Proto: http
+Cf-Visitor: {"scheme":"http"}
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36
+Referer: http://idm.munongdan.pro/account/dangnhap.php?token=klink005&loginkey=WkdMSjVKMkxXNE9MOVYwWVY=
+Accept-Language: vi-VN,en-US;q=0.8
+Cookie: __cfduid=d4a271555c631b73450333a87f1dfc1de1498374115; PHPSESSID=oosenou0h7f3dpj8b5rhjp6487; __utmt=1; __utma=61409140.2065458143.1498374119.1498374119.1498374119.1; __utmb=61409140.9.10.1498374119; __utmc=61409140; __utmz=61409140.1498374119.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cf-Connecting-Ip: 27.74.242.159
+
+Response body:
+

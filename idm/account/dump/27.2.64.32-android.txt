@@ -1,0 +1,21 @@
+GET /account/topup.php?act=&debug=false&location=th&gamecode=&simOperator=&typeName=WIFI&pid=4058&rid=4058001&price=0&partnersOrderId=QMQJ170702000805457110990000001&width=1280&height=720&token=peheo9x&v=5.2.9 HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 27.2.64.32
+Cf-Ray: 377af97c51513222-SIN
+X-Forwarded-Proto: http
+Cf-Visitor: {"scheme":"http"}
+X-Wap-Profile: http://218.249.47.94/Xianghe/MTK_Phone_KK_UAprofile.xml
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; G5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
+Accept-Language: vi-VN,en-US;q=0.8
+Cookie: PHPSESSID=ouv1vlr6rlcnn281vctateepg5; __cfduid=d58d8440359229333ea7a916c97f4e5421498815544; __utmt=1; __utma=61409140.1942840411.1498816299.1498885032.1498929630.5; __utmb=61409140.2.10.1498929630; __utmc=61409140; __utmz=61409140.1498816299.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Cf-Connecting-Ip: 27.2.64.32
+
+Response body:
+

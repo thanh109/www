@@ -1,0 +1,22 @@
+GET /account/index.php HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 42.117.13.25
+Cf-Ray: 374cb7efcc2f30fc-SIN
+X-Forwarded-Proto: https
+Cf-Visitor: {"scheme":"https"}
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Dnt: 1
+Referer: https://idm.munongdan.pro/account/login.php?act=do
+Accept-Language: en-US,en;q=0.8
+Cookie: __cfduid=d8cdda1a89efc279b4f6e3f0bbc6be6591496604505; _ga=GA1.2.1129601515.1496669242; PHPSESSID=jg6hqgkedqejl71p8maqlbrd04; __utmt=1; __utma=213868040.379439622.1496604353.1498422502.1498443708.34; __utmb=213868040.2.10.1498443708; __utmc=213868040; __utmz=213868040.1497922713.21.2.utmcsr=huyenthoai.pro|utmccn=(referral)|utmcmd=referral|utmcct=/redirect/aHR0cDovL2JpdC5seS8yc3VwSWsy; __utma=61409140.1129601515.1496669242.1498419914.1498443714.31; __utmb=61409140.1.10.1498443714; __utmc=61409140; __utmz=61409140.1496669242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Cf-Connecting-Ip: 42.117.13.25
+
+Response body:
+

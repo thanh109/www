@@ -1,0 +1,72 @@
+Info=mailId=210569
+warning=goods=1020007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210569, 1020007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210569, 1020007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210570
+warning=goods=1000007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210570, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210570, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210571
+warning=goods=1005097
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210571, 1005097, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210571, 1005097, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210572
+warning=goods=1000007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210572, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210572, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210573
+warning=goods=1000107
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210573, 1000107, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210573, 1000107, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210574
+warning=goods=1020307
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210574, 1020307, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210574, 1020307, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210575
+warning=goods=1015097
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210575, 1015097, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210575, 1015097, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210581
+warning=goods=1015303
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210581, 1015303, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210581, 1015303, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210582
+warning=goods=1000007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210582, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210582, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210583
+warning=goods=1000007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210583, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210583, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210584
+warning=goods=1000007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210584, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (210584, 1000007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=210585
+warning=goods=1030915
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                              VALUES (210585, 1030915, 1, 1, 80, 1, 1.0E+17, 99, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                              VALUES (210585, 1030915, 1, 1, 80, 1, 1.0E+17, 99, 0, 0, '0', 0, 0, '0', 0, 0,  0)

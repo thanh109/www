@@ -1,0 +1,22 @@
+GET /account2/index.php HTTP/1.1
+
+HTTP headers:
+Host: idm.munongdan.pro
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cf-Ipcountry: VN
+X-Forwarded-For: 42.114.119.32
+Cf-Ray: 377b147768dd702c-SIN
+X-Forwarded-Proto: https
+Cf-Visitor: {"scheme":"https"}
+Referer: https://idm.munongdan.pro/account2/dangnhap.php?token=bubamnhe@gmail.com&loginkey=R0k1UTJBRENYVllYV0RNQlM=
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.2.2; vi-vn; ME173X Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Accept-Language: vi-VN, en-US
+Accept-Charset: utf-8, utf-16, *;q=0.7
+Cookie: __cfduid=df0fc4d903c4c0d5cb24c62fdbf2785b01498801912; PHPSESSID=v4knk49tkmch7lf61btrdoimm0; __utmt=1; __utma=61409140.962198164.1498801920.1498911948.1498929124.5; __utmb=61409140.5.10.1498929124; __utmc=61409140; __utmz=61409140.1498801920.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Cf-Connecting-Ip: 42.114.119.32
+
+Response body:
+

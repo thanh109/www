@@ -1,0 +1,2 @@
+
+function getQueryString(n){var i=new RegExp("(^|&)"+n+"=([^&]*)(&|$)","i"),t=window.location.search.substr(1).match(i);return t!=null?t[2]:null}function GetGuid(){var n=function(){return((1+Math.random())*65536|0).toString(16).substring(1)};return n()+n()+n()+"-"+n()}

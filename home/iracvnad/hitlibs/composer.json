@@ -1,0 +1,13 @@
+{
+    "name": "bot/rebuild",
+    "decsription": "thu vien cho bot",
+	"authors": [
+    {
+        "name": "Nguyen Quang Huy",
+        "email": "admin@phuxuyen.net"
+    }],
+    "require": {
+       "irazasyed/telegram-bot-sdk": "^2.2"
+		
+    }
+}
