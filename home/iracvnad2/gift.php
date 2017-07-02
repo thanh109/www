@@ -1,5 +1,6 @@
 <!doctype html>
 <?php
+error_reporting(0);
 include "top.php";
 include "config.php";
 ?>

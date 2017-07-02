@@ -1,5 +1,6 @@
 <!doctype html>
 <?php
+error_reporting(0);
 include "top.php";
 include "config.php";
 ?>
@@ -40,9 +41,9 @@ $db_select = mysql_select_db($config["DB_NAME"]);
 if (!$db_select) {
     die("Kết nối cơ sở dữ liệu " . $config["DB_NAME"] . " trống! Vui lòng điền vào tên cơ sở dữ liệu ~~~~");
 }
-$page = $_GET['page'];
-if (!is_numeric($page))
-    $page = 1;
+$page = 1;
+if (!empty($_GET['page']))
+   $page = $_GET['page'];
 $queryCount = "SELECT * FROM t_account ";
 $query      = mysql_query($queryCount, $conn);
 $num        = mysql_num_rows($query);

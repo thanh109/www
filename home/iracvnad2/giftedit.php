@@ -1,5 +1,6 @@
 <!doctype html>
 <?php
+error_reporting(0);
 include "top.php";
 ?>
 <script type="text/javascript" src="./js/jquery-1.7.1.min.js"></script>

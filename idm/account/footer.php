@@ -127,7 +127,7 @@ Design by hitpro
 <script type="text/javascript" src="vendors/laddabootstrap/js/spin.min.js"></script>
 <script type="text/javascript" src="vendors/laddabootstrap/js/ladda.min.js"></script>
 <script type="text/javascript" src="js/custom_js/button_main.js"></script>
-<script type="text/javascript" src="vendors/countUp.js/js/countUp.js"></script-->
+<script type="text/javascript" src="vendors/countUp.js/js/countUp.js"></script>
 <script type="text/javascript" src="vendors/sweetalert2/js/sweetalert2.min.js"></script>
 <script type="text/javascript" src="js/custom_js/sweetalert.js"></script>
 <!--Sparkline Chart-->

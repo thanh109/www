@@ -1,5 +1,6 @@
 <!doctype html>
 <?php
+error_reporting(0);
 include "top.php";
 include "config.php";
 ?>
@@ -40,9 +41,10 @@ $db_select = mysql_select_db($config["DB_NAME1"]);
 if (!$db_select) {
     die("Kết nối cơ sở dữ liệu " . $config["DB_NAME1"] . " trống! Vui lòng điền vào tên cơ sở dữ liệu ~~~~");
 }
-$page = $_GET['page'];
-if (!is_numeric($page))
-    $page = 1;
+$page = 1;
+if (!empty($_GET['page']))
+   $page = $_GET['page'];
+
 $queryCount = "SELECT * FROM t_roles ";
 $query      = mysql_query($queryCount, $conn);
 $num        = mysql_num_rows($query);

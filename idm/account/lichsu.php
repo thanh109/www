@@ -6,7 +6,6 @@ if (!isset($_SESSION['username'])) {
 }
 include "navbar.php";
 ?>
-<link rel="stylesheet" type="text/css" href="css/form_layouts.css">
 <aside class="right-side">
     <!-- Content Header (Page header) -->
     <section class="content-header">
