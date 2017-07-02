@@ -47,24 +47,22 @@ include "navbar.php";
                                         </div>
                                         <div class="panel-body">
                                             <form action="http://napthe.munongdan.pro/transaction.php" method="post" class="form-horizontal" id="form-validation">
-                                                <div>
-                                                    <div class="form-group form-actions">
-                                                        <div class="col-md-12 text-center">
-                                                            <button type="button" class="btn btn-primary"type="submit" name="napthe" value="Nạp thẻ" onclick="this.disabled='disabled';this.form.submit();">Xác Nhận
-                                                            </button>
-                                                            
-                                                            &nbsp;
-                                                            <button type="reset" class="btn btn-effect-ripple btn-default reset_btn">
-                                                                Nhập Lại
-                                                            </button>
+                                                    <div class="row marginTop">
+                                                        <div class="col-xs-6 col-md-6">
+                                                            <input type="submit" id="btncheck" value="Xác Nhận"
+                                                                   class="btn btn-primary btn-block btn-md btn-responsive"
+                                                                   tabindex="7">
+                                                        </div>
+                                                        <div class="col-xs-6 col-md-6">
+                                                            <input type="reset" value="Nhập Lại"
+                                                               class="btn btn-success btn-block btn-md btn-responsive">
                                                         </div>
                                                     </div>
-                                                </div>
                                                 <div class="form-group">
                                                     <input type="hidden" id="txtuser" class="form-control" name="txtuser"
                                                                        value="<?php
 echo $_SESSION['username'];
-?>" autocomplete="off" readonly>
+?>">
 													<div class="form-group">
                                                     <label for="inputnumber3" class="col-md-3 control-label">
                                                             Loại Thẻ
@@ -75,22 +73,22 @@ echo $_SESSION['username'];
                                 <div class="am-u-sm-8">
                                     <div data-toggle="buttons">
                                         <label class="btn btn-default" style="margin-top: 5px;">
-                                            <input type="radio" id="chonmang" name="chonmang" value="VIETTEL"> <img src="img/icon/viettel.png" width="105px" height="50px" />
+                                            <input type="radio" id="chonmang" name="chonmang" value="VIETTEL"> <img src="img/icon/viettel.png" width="105px" height="50px" class="custom_radio"/>
                                         </label>
                                         <label class="btn btn-default" style="margin-top: 5px;">
-                                            <input type="radio" id="chonmang" name="chonmang" value="VINA"> <img src="img/icon/vinaphone.png" width="105px" height="50px" />
+                                            <input type="radio" id="chonmang" name="chonmang" value="VINA"> <img src="img/icon/vinaphone.png" width="105px" height="50px" class="custom_radio"/>
                                         </label>
                                         <label class="btn btn-default" style="margin-top: 5px;">
-                                            <input type="radio" id="chonmang" name="chonmang" value="MOBI"> <img src="img/icon/mobifone.png" width="105px" height="50px" />
+                                            <input type="radio" id="chonmang" name="chonmang" value="MOBI"> <img src="img/icon/mobifone.png" width="105px" height="50px" class="custom_radio"/>
                                         </label>
                                         <label class="btn btn-default" style="margin-top: 5px;">
-                                            <input type="radio" id="chonmang" name="chonmang" value="GATE"> <img src="img/icon/gate.png" width="105px" height="50px" />
+                                            <input type="radio" id="chonmang" name="chonmang" value="GATE"> <img src="img/icon/gate.png" width="105px" height="50px" class="custom_radio"/>
                                         </label>
                                         <label class="btn btn-default" style="margin-top: 5px;">
-                                            <input type="radio" id="chonmang" name="chonmang" value="VNM"> <img src="img/icon/vietnamobile.png" width="105px" height="50px" />
+                                            <input type="radio" id="chonmang" name="chonmang" value="VNM"> <img src="img/icon/vietnamobile.png" width="105px" height="50px" class="custom_radio"/>
                                         </label>
                                         <label class="btn btn-default" style="margin-top: 5px;">
-                                            <input type="radio" id="chonmang" name="chonmang" value="VTC"> <img src="img/icon/vcoin-vtc.png" width="105px" height="50px" />
+                                            <input type="radio" id="chonmang" name="chonmang" value="VTC"> <img src="img/icon/vcoin-vtc.png" width="105px" height="50px" class="custom_radio"/>
                                         </label>
                                     </div>
                                 </div>
@@ -99,7 +97,7 @@ echo $_SESSION['username'];
                                                     </div>
                                                 </div>
                                                     <div class="form-group">
-                                                        <label class="col-md-4 control-label" for="val-username">
+                                                        <label class="col-md-4 control-label" for="txtPhone">
                                                             Số Serie/Số thẻ
 															 <span class="text-danger">*</span>
                                                         </label>
@@ -108,13 +106,13 @@ echo $_SESSION['username'];
                                                                         <span class="input-group-addon">
                                                                         <i class="fa fa-fw ti-pencil"></i>
                                                                     </span>
-                                                                <input type="text" id="val-username" name="txtseri" placeholder=" Số Serie/Số thẻ"
-                                                                       class="form-control input-md" autocomplete="off">
+                                                                <input type="text" id="txtPhone" required name="txtseri" placeholder=" Số Serie/Số thẻ"
+                                                                       class="form-control input-md">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="form-group">
-                                                        <label class="col-md-4 control-label" for="val-username">
+                                                        <label class="col-md-4 control-label" for="txtPhone">
                                                             Mã Pin/Mã Nạp Tiền
 															 <span class="text-danger">*</span>
                                                         </label>
@@ -123,26 +121,24 @@ echo $_SESSION['username'];
                                                                         <span class="input-group-addon">
                                                                         <i class="fa fa-fw ti-pencil"></i>
                                                                     </span>
-                                                                <input type="text" class="form-control input-md" id="val-username" name="txtpin"
-                                                                       placeholder="Mã Pin/Mã Nạp Tiền" autocomplete="off">
+                                                                <input type="text" class="form-control input-md" required id="txtPhone" name="txtpin"
+                                                                       placeholder="Mã Pin/Mã Nạp Tiền">
                                                             </div>
                                                         </div>
                                                     </div>
                                                    
                                                 </div>
-                                                <div class="form-group form-actions">
-                                                    <div class="row">
-                                                        <div class="col-md-12 text-center">
-                                                            <button class="btn btn-effect-ripple btn-primary" type="submit" name="napthe" value="Nạp thẻ" onclick="this.disabled='disabled';this.form.submit();">
-															Xác Nhận
-                                                            </button>
-                                                            &nbsp;
-                                                            <button type="reset" class="btn btn-effect-ripple btn-default reset_btn">
-                                                                Nhập Lại
-                                                            </button>
+                                                    <div class="row marginTop">
+                                                        <div class="col-xs-6 col-md-6">
+                                                            <input type="submit" id="btncheck" value="Xác Nhận"
+                                                                   class="btn btn-primary btn-block btn-md btn-responsive"
+                                                                   tabindex="7">
+                                                        </div>
+                                                        <div class="col-xs-6 col-md-6">
+                                                            <input type="reset" value="Nhập Lại"
+                                                               class="btn btn-success btn-block btn-md btn-responsive">
                                                         </div>
                                                     </div>
-                                                </div>
                                             </form>
                                         </div>
                                     </div>
