@@ -28,3 +28,33 @@ warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  a
 		                               VALUES (212342, 1010407, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
 goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
 		                               VALUES (212342, 1010407, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=212343
+warning=goods=1010007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212343, 1010007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212343, 1010007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=212344
+warning=goods=1010407
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212344, 1010407, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212344, 1010407, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=212345
+warning=goods=1010007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212345, 1010007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212345, 1010007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=212346
+warning=goods=1010007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212346, 1010007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212346, 1010007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+Info=mailId=212347
+warning=goods=1010007
+warning=goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212347, 1010007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
+goodssql=INSERT INTO t_mailgoods (mailid, goodsid, gcount,   binding,  appendproplev,  lucky,  excellenceinfo,  forge_level,strong, quality,Props,origholenum,rmbholenum,jewellist,addpropindex,bornindex,equipchangelife) 
+		                               VALUES (212347, 1010007, 1, 1, 80, 1, 95158272, 0, 0, 0, '0', 0, 0, '0', 0, 0,  0)
