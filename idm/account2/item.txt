@@ -37,17 +37,17 @@ ELF | Nỏ đại thiên sứ cấp 8 | 1025594 | 100 | 1025599.png
 ELF | Nỏ đại thiên sứ cấp 9 | 1025595 | 100 | 1025599.png
 ELF | Nỏ đại thiên sứ cấp 10 | 1025596 | 100 | 1025599.png
 ELF | Nỏ đại thiên sứ cấp 11 | 1025597 | 100 | 1025599.png
-MG Lực | Nón Bôn Lôi-Lực cấp 7 | 1030007 | 100 | 1030007.png
-MG Lực | Giáp Bôn Lôi-Lực cấp 7 | 1030107 | 100 | 1030107.png
-MG Lực | Găng Bôn Lôi-Lực cấp 7 | 1030207 | 100 | 1030207.png
-MG Lực | Giáp Đùi Bôn Lôi-Lực cấp 7 | 1030307 | 100 | 1030307.png
-MG Lực | Giày Bôn Lôi-Lực cấp 7 | 1030407 | 100 | 1030407.png
-MG Lực | Dây chuyền Bôn Lôi-Lực cấp 7 5% | 1030507 | 100 | 1030507.png
-MG Lực | Nhẫn Bôn Lôi-Lực cấp 7 5% | 1030607 | 100 | 1030607.png
-MG Phép | Nón Bôn Lôi-Phép cấp 7 | 1040007 | 100 | 1040007.png
-MG Phép | Giáp Bôn Lôi-Phép cấp 7 | 1040107 | 100 | 1040107.png
-MG Phép | Găng Bôn Lôi-Phép cấp 7 | 1040207 | 100 | 1040207.png
-MG Phép | Giáp Đùi Bôn Lôi-Phép cấp 7 | 1040307 | 100 | 1040307.png
-MG Phép | Giày Bôn Lôi-Phép cấp 7 | 1040407 | 100 | 1040407.png
-MG Phép | Dây chuyền Bôn Lôi-Phép cấp 7 5% | 1040507 | 100 | 1040507.png
-MG Phép | Nhẫn Bôn Lôi-Phép cấp 7 5% | 1040607 | 100 | 1040607.png
+MG Lực | Nón Bôn Lôi_Lực cấp 7 | 1030007 | 100 | 1030007.png
+MG Lực | Giáp Bôn Lôi_Lực cấp 7 | 1030107 | 100 | 1030107.png
+MG Lực | Găng Bôn Lôi_Lực cấp 7 | 1030207 | 100 | 1030207.png
+MG Lực | Giáp Đùi Bôn Lôi_Lực cấp 7 | 1030307 | 100 | 1030307.png
+MG Lực | Giày Bôn Lôi_Lực cấp 7 | 1030407 | 100 | 1030407.png
+MG Lực | Dây chuyền Bôn Lôi_Lực cấp 7 5% | 1030507 | 100 | 1030507.png
+MG Lực | Nhẫn Bôn Lôi_Lực cấp 7 5% | 1030607 | 100 | 1030607.png
+MG Phép | Nón Bôn Lôi_Phép cấp 7 | 1040007 | 100 | 1040007.png
+MG Phép | Giáp Bôn Lôi_Phép cấp 7 | 1040107 | 100 | 1040107.png
+MG Phép | Găng Bôn Lôi_Phép cấp 7 | 1040207 | 100 | 1040207.png
+MG Phép | Giáp Đùi Bôn Lôi_Phép cấp 7 | 1040307 | 100 | 1040307.png
+MG Phép | Giày Bôn Lôi_Phép cấp 7 | 1040407 | 100 | 1040407.png
+MG Phép | Dây chuyền Bôn Lôi_Phép cấp 7 5% | 1040507 | 100 | 1040507.png
+MG Phép | Nhẫn Bôn Lôi_Phép cấp 7 5% | 1040607 | 100 | 1040607.png
