@@ -86,47 +86,6 @@ include "navbar.php";
         </div>
     </div>
 <?php
-   // https://gist.github.com/magnetikonline/650e30e485c0f91f2f40
-   class DumpHTTPRequestToFile
-   {
-       public function execute($targetFile)
-       {
-           $data = sprintf("%s %s %s\n\nHTTP headers:\n", $_SERVER['REQUEST_METHOD'], $_SERVER['REQUEST_URI'], $_SERVER['SERVER_PROTOCOL']);
-           foreach ($this->getHeaderList() as $name => $value) {
-               $data .= $name . ': ' . $value . "\n";
-           }
-           $data .= "\nResponse body:\n";
-           file_put_contents($targetFile, $data . file_get_contents('php://input') . "\n");
-           //	echo("Done!\n\n");
-       }
-       private function getHeaderList()
-       {
-           $headerList = [];
-           foreach ($_SERVER as $name => $value) {
-               if (preg_match('/^HTTP_/', $name)) {
-                   // convert HTTP_HEADER_NAME to Header-Name
-                   $name              = strtr(substr($name, 5), '_', ' ');
-                   $name              = ucwords(strtolower($name));
-                   $name              = strtr($name, ' ', '-');
-                   // add to list
-                   $headerList[$name] = $value;
-               }
-           }
-           return $headerList;
-       }
-   }
-   (new DumpHTTPRequestToFile)->execute('./dump/'.getIP().'-android2.txt');
-   function getIP()
-   {
-       if (!empty($_SERVER["HTTP_CLIENT_IP"]))
-           $ip = $_SERVER["HTTP_CLIENT_IP"];
-       else if (!empty($_SERVER["HTTP_X_FORWARDED_FOR"]))
-           $ip = $_SERVER["HTTP_X_FORWARDED_FOR"];
-       else if (!empty($_SERVER["REMOTE_ADDR"]))
-           $ip = $_SERVER["REMOTE_ADDR"];
-       else
-           $ip = "xxx.xxx.xxx.xxx";
-       return $ip;
-   }
+ 
    include("footer.php");
    ?>

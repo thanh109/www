@@ -237,7 +237,7 @@ echo $row['diemthuong'];
                         </a>
                     </li>
 					<li>
-                        <a href="webshop.php">
+                        <a href="shop.php">
                             <i class="fa fa-fw fa-shopping-cart"></i>
 							<span class="mm-text ">Web Shop</span>
                         </a>

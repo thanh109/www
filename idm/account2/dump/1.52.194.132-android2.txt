@@ -1,0 +1,22 @@
+GET /account2/index.php HTTP/1.1
+
+HTTP headers:
+Cf-Connecting-Ip: 1.52.194.132
+Cookie: __cfduid=d06a11287be9853e032c3778d12bc9c441498493310; PHPSESSID=kscsuj84a3rjqob0hnfvi1kun3; __utma=213868040.1543244022.1498918686.1498918686.1498918686.1; __utmc=213868040; __utmz=213868040.1498918686.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; _ga=GA1.2.1282991364.1498493313; _gid=GA1.2.1116919412.1498947275; __utma=61409140.1282991364.1498493313.1498886301.1498947275.16; __utmb=61409140.31.10.1498947275; __utmc=61409140; __utmz=61409140.1498493313.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+X-Requested-With: furyteam.mu4vnn.siamgame.ggplay.qjmz
+Accept-Language: vi-VN,en-US;q=0.8
+Referer: https://idm.munongdan.pro/account2/dangnhap.php?token=vohinhchem&loginkey=VkNRUUVRMlBCWDVKMklFN0Y=
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36
+Upgrade-Insecure-Requests: 1
+Cf-Visitor: {"scheme":"https"}
+X-Forwarded-Proto: https
+Cf-Ray: 377ccfdd2cac706e-SIN
+X-Forwarded-For: 1.52.194.132
+Cf-Ipcountry: VN
+Accept-Encoding: gzip
+Connection: close
+Host: idm.munongdan.pro
+
+Response body:
+
